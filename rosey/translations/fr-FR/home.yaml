@@ -1,38 +1,37 @@
 _inputs:
   $:
     type: object
-    comment: '[index.html](https://bright-kumara.cloudvent.net/index.html)'
+    comment: "[index.html](https://bright-kumara.cloudvent.net/index.html)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (fr-FR)
-          comment: '[index.html](https://bright-kumara.cloudvent.net/index.html)'
+          comment: "[index.html](https://bright-kumara.cloudvent.net/index.html)"
           inputs:
-            - Beautiful-email-campaigns
             - Try-This-Free
             - rcc-markdown:Another-paragraph-for-the-Hui%2E
-            - >-
-              rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E
+            - rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E
         - heading: Already translated (fr-FR)
-          comment: '[index.html](https://bright-kumara.cloudvent.net/index.html)'
-          inputs: []
+          comment: "[index.html](https://bright-kumara.cloudvent.net/index.html)"
+          inputs:
+            - Beautiful-email-campaigns
   Beautiful-email-campaigns:
     label: Beautiful email campaigns
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://bright-kumara.cloudvent.net/index.html#:~:text=Beautiful%20email%20campaigns)
+    comment: "[See in
+      context](https://bright-kumara.cloudvent.net/index.html#:~:text=Beautiful\
+      %20email%20campaigns)"
     context: {}
   Try-This-Free:
     label: Try This Free
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://bright-kumara.cloudvent.net/index.html#:~:text=Try%20This%20Free)
+    comment: "[See in
+      context](https://bright-kumara.cloudvent.net/index.html#:~:text=Try%20Thi\
+      s%20Free)"
     context: {}
   rcc-markdown:Another-paragraph-for-the-Hui%2E:
     label: Another paragraph for the Hui.
@@ -51,9 +50,9 @@ _inputs:
       redo: true
       removeformat: true
       copyformatting: true
-    comment: >-
-      [See in
-      context](https://bright-kumara.cloudvent.net/index.html#:~:text=Another%20paragraph%20for%20the%20Hui.)
+    comment: "[See in
+      context](https://bright-kumara.cloudvent.net/index.html#:~:text=Another%2\
+      0paragraph%20for%20the%20Hui.)"
     context: {}
   rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E:
     label: With Sendit, you can quickly create beauti...
@@ -72,9 +71,9 @@ _inputs:
       redo: true
       removeformat: true
       copyformatting: true
-    comment: >-
-      [See in
-      context](https://bright-kumara.cloudvent.net/index.html#:~:text=With%20Sendit%2C%20you%20can,convert%20them%20into%20customers.)
+    comment: "[See in
+      context](https://bright-kumara.cloudvent.net/index.html#:~:text=With%20Se\
+      ndit%2C%20you%20can,convert%20them%20into%20customers.)"
     context:
       open: false
       title: Untranslated Text
@@ -84,6 +83,6 @@ _inputs:
         reader's attention, engage them, and convert them into customers.
 urlTranslation: index.html
 Beautiful-email-campaigns: This is a manual translation for the demo.
-Try-This-Free: ''
-rcc-markdown:Another-paragraph-for-the-Hui%2E: ''
-rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E: ''
+Try-This-Free: ""
+rcc-markdown:Another-paragraph-for-the-Hui%2E: ""
+rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E: ""
