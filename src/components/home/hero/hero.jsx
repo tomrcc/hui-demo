@@ -1,5 +1,6 @@
 import MarkdownIt from "markdown-it";
 const md = new MarkdownIt({ html: true });
+import { generateRoseyId } from "rosey-cloudcannon-connector/utils";
 
 export default function HomeHero(block) {
   return (
@@ -9,9 +10,11 @@ export default function HomeHero(block) {
         <div className="row align-items-center">
           <div className="col-lg-6">
             <div className="hero-two-content">
-              <h1 className="mb-4">{block.title}</h1>
+              <h1 className="mb-4" data-rosey={generateRoseyId(block.title)}>{block.title}</h1>
               <div
                 className="mb-7 w-xxl-80"
+                data-rosey-ns="rcc-markdown"
+                data-rosey-tagger
                 dangerouslySetInnerHTML={{
                   __html: md.render(block.description),
                 }}
@@ -23,7 +26,8 @@ export default function HomeHero(block) {
                     className="btn btn-primary btn-lg"
                   >
                     {" "}
-                    {block.button.text}{" "}
+                    <span data-rosey={generateRoseyId(block.button.text)}>{block.button.text}</span>
+                    {" "}
                   </a>
                 )}
               </div>

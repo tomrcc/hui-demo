@@ -15,6 +15,9 @@ content_blocks:
     description: >-
       With Sendit, you can quickly create beautiful rich emails that capture a
       reader's attention, engage them, and convert them into customers.
+
+
+      Another paragraph for the Hui.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
