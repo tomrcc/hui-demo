@@ -1,0 +1,19 @@
+_inputs:
+  $:
+    type: object
+    comment: "[blog/how-to-host-better-email-marketing-campaigns/](https://bright-k\
+      umara.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[blog/how-to-host-better-email-marketing-campaigns/](https://bright-k\
+            umara.cloudvent.net/blog/how-to-host-better-email-marketing-campaig\
+            ns/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[blog/how-to-host-better-email-marketing-campaigns/](https://bright-k\
+            umara.cloudvent.net/blog/how-to-host-better-email-marketing-campaig\
+            ns/)"
+          inputs: []
+urlTranslation: blog/how-to-host-better-email-marketing-campaigns/index.html

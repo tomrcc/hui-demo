@@ -1,0 +1,14 @@
+_inputs:
+  $:
+    type: object
+    comment: "[pricing/](https://bright-kumara.cloudvent.net/pricing/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[pricing/](https://bright-kumara.cloudvent.net/pricing/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[pricing/](https://bright-kumara.cloudvent.net/pricing/)"
+          inputs: []
+urlTranslation: pricing/index.html

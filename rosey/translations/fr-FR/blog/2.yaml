@@ -1,0 +1,14 @@
+_inputs:
+  $:
+    type: object
+    comment: "[blog/2/](https://bright-kumara.cloudvent.net/blog/2/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[blog/2/](https://bright-kumara.cloudvent.net/blog/2/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[blog/2/](https://bright-kumara.cloudvent.net/blog/2/)"
+          inputs: []
+urlTranslation: blog/2/index.html

@@ -1,0 +1,14 @@
+_inputs:
+  $:
+    type: object
+    comment: "[signup/](https://bright-kumara.cloudvent.net/signup/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[signup/](https://bright-kumara.cloudvent.net/signup/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[signup/](https://bright-kumara.cloudvent.net/signup/)"
+          inputs: []
+urlTranslation: signup/index.html

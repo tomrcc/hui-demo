@@ -1,0 +1,17 @@
+_inputs:
+  $:
+    type: object
+    comment: "[tags/marketing/2/](https://bright-kumara.cloudvent.net/tags/marketin\
+      g/2/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[tags/marketing/2/](https://bright-kumara.cloudvent.net/tags/marketin\
+            g/2/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[tags/marketing/2/](https://bright-kumara.cloudvent.net/tags/marketin\
+            g/2/)"
+          inputs: []
+urlTranslation: tags/marketing/2/index.html

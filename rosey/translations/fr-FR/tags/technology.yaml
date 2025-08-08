@@ -1,0 +1,16 @@
+_inputs:
+  $:
+    type: object
+    comment: "[tags/technology/](https://bright-kumara.cloudvent.net/tags/technology/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[tags/technology/](https://bright-kumara.cloudvent.net/tags/technolog\
+            y/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[tags/technology/](https://bright-kumara.cloudvent.net/tags/technolog\
+            y/)"
+          inputs: []
+urlTranslation: tags/technology/index.html

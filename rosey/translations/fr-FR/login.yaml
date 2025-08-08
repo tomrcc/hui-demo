@@ -1,0 +1,14 @@
+_inputs:
+  $:
+    type: object
+    comment: "[login/](https://bright-kumara.cloudvent.net/login/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[login/](https://bright-kumara.cloudvent.net/login/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[login/](https://bright-kumara.cloudvent.net/login/)"
+          inputs: []
+urlTranslation: login/index.html

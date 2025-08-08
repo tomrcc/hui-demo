@@ -1,0 +1,17 @@
+_inputs:
+  $:
+    type: object
+    comment: "[blog/what-are-the-best-email-clients/](https://bright-kumara.cloudve\
+      nt.net/blog/what-are-the-best-email-clients/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[blog/what-are-the-best-email-clients/](https://bright-kumara.cloudve\
+            nt.net/blog/what-are-the-best-email-clients/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[blog/what-are-the-best-email-clients/](https://bright-kumara.cloudve\
+            nt.net/blog/what-are-the-best-email-clients/)"
+          inputs: []
+urlTranslation: blog/what-are-the-best-email-clients/index.html

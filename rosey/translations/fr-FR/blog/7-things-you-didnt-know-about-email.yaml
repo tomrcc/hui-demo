@@ -1,0 +1,17 @@
+_inputs:
+  $:
+    type: object
+    comment: "[blog/7-things-you-didnt-know-about-email/](https://bright-kumara.clo\
+      udvent.net/blog/7-things-you-didnt-know-about-email/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[blog/7-things-you-didnt-know-about-email/](https://bright-kumara.clo\
+            udvent.net/blog/7-things-you-didnt-know-about-email/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[blog/7-things-you-didnt-know-about-email/](https://bright-kumara.clo\
+            udvent.net/blog/7-things-you-didnt-know-about-email/)"
+          inputs: []
+urlTranslation: blog/7-things-you-didnt-know-about-email/index.html
