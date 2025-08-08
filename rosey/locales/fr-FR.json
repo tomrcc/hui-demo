@@ -3,25 +3,9 @@
 		"original": "5 things to improve your email templates",
 		"value": "5 things to improve your email templates"
 	},
-	"7-things-you-didn't-know-about-email": {
-		"original": "7 things you didn't know about email",
-		"value": "7 things you didn't know about email"
-	},
 	"Beautiful-email-campaigns": {
 		"original": "Beautiful email campaigns",
 		"value": "This is a manual translation for the demo."
-	},
-	"Best-email-sending-services": {
-		"original": "Best email sending services",
-		"value": "Best email sending services"
-	},
-	"Email-delivery-tips": {
-		"original": "Email delivery tips",
-		"value": "Email delivery tips"
-	},
-	"How-to-host-better-email-marketing-campaigns": {
-		"original": "How to host better email marketing campaigns?",
-		"value": "How to host better email marketing campaigns?"
 	},
 	"Try-This-Free": {
 		"original": "Try This Free",
@@ -83,10 +67,6 @@
 		"original": "Another paragraph for the Hui.",
 		"value": "Another paragraph for the Hui."
 	},
-	"rcc-markdown:Be-aware-of-what's-normal-for-your-target-customers'-inboxes%2E-If-you're-sending-out-emails-to-people-who-are-on-Gmail-and-Yahoo-accounts-then-there's-little-chance-they'll-get-blocked-because-their-addresses-haven't-been-flagged-as-spam-yet%2E-But-if-you're-reaching-out-to-people-with-Outlook-or-AOL-addresses-there's-a-good-chance-your-message-will-get-flagged-as-junk-mail-and-end-up-in-their-spam-folder-before-they-ever-see-it%2E-Make-sure-you're-testing-different-types-of-addresses-before-sending-out-any-mass-marketing-campaigns%2E": {
-		"original": "Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.",
-		"value": "Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns."
-	},
 	"rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E": {
 		"original": "Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.",
 		"value": "Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future."
@@ -111,17 +91,13 @@
 		"original": "So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.",
 		"value": "So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner."
 	},
+	"rcc-markdown:This-will-show-off-archiving-of-pages%2E": {
+		"original": "This will show off archiving of pages.",
+		"value": "This will show off archiving of pages."
+	},
 	"rcc-markdown:Tracking": {
 		"original": "Tracking",
 		"value": "Tracking"
-	},
-	"rcc-markdown:Use-an-ESP": {
-		"original": "Use an ESP",
-		"value": "Use an ESP"
-	},
-	"rcc-markdown:Use-an-email-service-provider-(ESP)-that-has-been-tested-by-third-party-email-certification-services%2E-This-ensures-that-your-emails-will-be-accepted-by-the-major-ISPs%2E-An-ESP-that-offers-multiple-IP-addresses-or-one-that-allows-you-to-use-your-own-IP-address-if-necessary%2E-ISPs-often-block-messages-from-unknown-senders-so-having-your-own-IP-address-helps-get-around-this-issue%2E": {
-		"original": "Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.",
-		"value": "Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue."
 	},
 	"rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E": {
 		"original": "Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.",
@@ -130,10 +106,6 @@
 	"rcc-markdown:Use-images-sparingly-(if-at-all)%2E-You-might-be-tempted-to-include-an-image-in-every-email-you-send-out-but-it's-important-to-remember-that-images-can-cause-problems-when-it-comes-to-inbox-delivery-particularly-when-they're-used-incorrectly-or-included-in-bulk-emails-from-companies-where-the-receiver-doesn't-know-who-sent-them%2E-If-you're-going": {
 		"original": "Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going",
 		"value": "Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going"
-	},
-	"rcc-markdown:When-you-send-an-email-campaign-you-expect-it-to-reach-your-readers-right-But-what-if-the-emails-go-straight-to-your-subscribers'-spam-folders-instead-of-their-inboxes-To-make-sure-your-emails-reach-their-recipients-successfully-follow-these-email-delivery-tips%2E": {
-		"original": "When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.",
-		"value": "When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips."
 	},
 	"rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E": {
 		"original": "With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.",
