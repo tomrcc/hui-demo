@@ -65,7 +65,7 @@
 	},
 	"rcc-markdown:Another-paragraph-for-the-Hui%2E": {
 		"original": "Another paragraph for the Hui.",
-		"value": "Un autre paragraphe pour les Hui.\n"
+		"value": "Un autre paragraphe pour les Hui. <strong>Lets add a QA.</strong>"
 	},
 	"rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E": {
 		"original": "Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.",
@@ -109,7 +109,7 @@
 	},
 	"rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E": {
 		"original": "With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.",
-		"value": "Avec Sendit, vous pouvez rapidement créer de superbes e-mails riches qui captent l'attention du lecteur, l'engagent et le convertissent en client.\n"
+		"value": "Avec Sendit, vous pouvez rapidement créer de superbes e-mails riches qui captent l'attention du lecteur, l'engagent et le convertissent en client."
 	},
 	"rcc-markdown:Your-customers-don't-want-to-read-lengthy-emails-full-of-text-so-keep-your-messages-short-and-sweet%2E-If-you-have-multiple-products-to-promote-break-up-each-product-offer-into-its-own-email-instead-of-sending-one-page-long-message-with-multiple-links-embedded-in-it%2E-That-way-customers-can-easily-find-what-they're-looking-for-without-having-to-scroll-all-over-the-page%2E": {
 		"original": "Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.",

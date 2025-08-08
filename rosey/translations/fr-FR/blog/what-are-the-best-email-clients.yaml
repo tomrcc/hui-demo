@@ -9,6 +9,10 @@ _inputs:
         - heading: Still to translate (fr-FR)
           comment: "[blog/what-are-the-best-email-clients/](https://bright-kumara.cloudve\
             nt.net/blog/what-are-the-best-email-clients/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[blog/what-are-the-best-email-clients/](https://bright-kumara.cloudve\
+            nt.net/blog/what-are-the-best-email-clients/)"
           inputs:
             - What-are-the-best-email-clients
             - rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E
@@ -16,10 +20,6 @@ _inputs:
             - rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E
             - rcc-markdown:This-will-show-off-archiving-of-pages%2E
             - rcc-markdown:Tracking
-        - heading: Already translated (fr-FR)
-          comment: "[blog/what-are-the-best-email-clients/](https://bright-kumara.cloudve\
-            nt.net/blog/what-are-the-best-email-clients/)"
-          inputs: []
   What-are-the-best-email-clients:
     label: What are the best email clients?
     hidden: false
